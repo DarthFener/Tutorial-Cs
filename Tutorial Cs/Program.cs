@@ -6,7 +6,7 @@ namespace Tutorial_Cs
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+          
         }
     }
 }
